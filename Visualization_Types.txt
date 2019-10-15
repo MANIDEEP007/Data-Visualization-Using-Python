@@ -1,0 +1,61 @@
+Below are the various Data Visualization types and their preview:
+      Arc Diagram
+      Area Graph
+      Bar Chart
+      Box and Whisker Plot
+      Brainstorm
+      Bubble Chart
+      Bubble Map
+      Bullet Graph
+      Calendar
+      Candlestick Chart
+      Chord Diagram
+      Choropleth Map
+      Circle Mapping
+      Connection Map
+      Density Plot
+      Donut Chart
+      Dot Map
+      Dot Matrix Chart
+      Error Bars
+      Flow Chart
+      Flow Map
+      Gannt Chart
+      Heat Map
+      Histogram
+      Illustration Diagram
+      Kagi Chart
+      Line Graph
+      Marimekko Chart
+      Multi-set Bar Chart
+      Network Diagram
+      Nightingale rose chart
+      Non-Ribbon chord diagram
+      Open High Low Close chart
+      Parallel Coordinates Plot
+      Parallel Sets
+      Pictogram Chart
+      Pie Chart
+      Point and Figure Chart
+      Population Pyramid
+      Proportional Area Chart
+      Radar Chart
+      Radial Bar Chart
+      Radial Column Chart
+      Sankey Diagram
+      Scatter Plot
+      Span Chart
+      Spiral Plot
+      Stacked Area Graph
+      Stacked Bar Graph
+      Stem and Leaf Plot
+      Stream Graph
+      Sunburst Diagram
+      Tally Chart
+      Timeline
+      Timetable
+      Tree Diagram
+      TreeMap
+      Venn Diagram
+      Violin Plot
+      Word Cloud
