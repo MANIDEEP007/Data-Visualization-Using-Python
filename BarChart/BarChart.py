@@ -1,4 +1,4 @@
-'''Module to Show the way of presenting data using Bar Chart'''
+'''Module to Show the way of presenting data using Bar Chart. Data Set to use - https://cricsheet.org/downloads/odis_male.zip'''
 import os
 import yaml
 import plotly.graph_objects as pg
