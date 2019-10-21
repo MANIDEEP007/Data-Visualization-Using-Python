@@ -15,7 +15,7 @@ def get_team_list(path):
             print(temp)
             temp += 1
             try:
-                with open(root + "/"+filer) as file_obj:
+                with open(filer) as file_obj:
                     data = yaml.load(file_obj, Loader=yaml.FullLoader)
                     for team in data['info']['teams']:
                         all_teams.append(team.strip())
